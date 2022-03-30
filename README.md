@@ -12,7 +12,7 @@
 * scikit-learn
 * nltk
 * pythainlp
-* python = 3.7.6+
+* python >= 3.7.6
 
 # Installation
 
