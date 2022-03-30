@@ -1,6 +1,6 @@
 # nameseer ['name-seer'] - a Thai person name classifier
 
-*nameseer* ('name-seer') is a python library for Thai name classification. It can determine whether a given name is a Thai person name or a Thai corporate name. *nameseer* uses linguistics features within the name to determine whether the name is a Thai person name or not. *nameseer* comes with a pre-trained model that was trained on 700,000 company names and 700,000 person names, with 0.994 accuracy when tested on 400,000 unseen names.
+*nameseer* ('name-seer') is a python library for Thai name classification. It can determine whether a given name is a Thai person name or a Thai corporate name. *nameseer* uses linguistics features within the name to determine whether the name is a Thai person name or not. *nameseer* comes with a pre-trained model that was trained on 700,000 company names and 700,000 person names, with 99.4% accuracy when tested on 400,000 unseen names.
 
 *nameseer* is based on the name-ethnicity classifier, orginally proposed here:
 > Treeratpituk, Pucktada, and C. Lee Giles. "Name-ethnicity classification and ethnicity-sensitive name matching." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 26. No. 1. 2012.
