@@ -30,7 +30,7 @@ Once installed, you can use `nameseer` within your python code to classify wheth
 >>> from nameseer import NameClassifier
 
 >>> nc = NameClassifier.load_pretrained_model()
->>> nc.classify_names(['ประยุทธ์ จันทร์โอชา','แอดวานซ์อินโฟร์เซอร์วิส'])
+>>> nc.classify_names(['ประยุทธ์ จันทร์โอชา','แอดวานซ์อินโฟร์ เซอร์วิส'])
 ['person', 'company']
 ```
 
